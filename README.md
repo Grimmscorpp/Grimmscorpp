@@ -1,16 +1,15 @@
 Hi 👋 My name is Ikram
 ======================
 
-Backend Developer
------------------
-
-*   🌍  I'm based in Dhaka, Bangladesh
 *   💡  I'm the creator of a powerful testing library — [protestr](http://https://github.com/Grimmscorpp/unicache)
 *   🚀  I'm currently working on [unicache](http://https://github.com/Grimmscorpp/unicache)
 *   🧠  I'm learning DevOps
 *   🤝  I'm open to collaborating on TDD, Docker, Infrastructure
+*   ⚡  I'm tech-agnostic and inquisitive—all for learning from everyone!
 *   ✉️  You can contact me at [ikramkhanfahim@gmail.com](mailto:ikramkhanfahim@gmail.com)
-*   ⚡  I'm tech-agnostic and inquisitive—all for learning from everyone!### Skills 
+*   🌍  I'm based in Dhaka, Bangladesh
+
+### Skills 
 
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
@@ -95,7 +94,7 @@ Backend Developer
   </a>
 </p>
 
-### Stats
+### Activities
 
 <a href="http://www.github.com/Grimmscorpp">
   <img src="https://github-readme-stats.vercel.app/api?username=Grimmscorpp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Grimmscorpp's GitHub stats" />
