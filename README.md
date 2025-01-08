@@ -1,6 +1,5 @@
 # Hi there, I'm Ikram 👋
 
-<img align='right' src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" width="230">
 <h3><p><em>Senior Software Engineer at <a href="https://www.cefalo.com/en/" target="_blank">Cefalo</em></p></h3>
 
 [![GitHub Grimmscorpp](https://img.shields.io/github/followers/Grimmscorpp?label=follow&style=social)](https://github.com/Grimmscorpp)
