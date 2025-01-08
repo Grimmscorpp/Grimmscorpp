@@ -1,8 +1,8 @@
 Hi 👋 My name is Ikram
 ======================
 
-*   💡  I'm the creator of a powerful testing library — [protestr](http://https://github.com/Grimmscorpp/unicache)
-*   🚀  I'm currently working on [unicache](http://https://github.com/Grimmscorpp/unicache)
+*   💡  I'm the creator of a powerful testing library — [protestr](https://github.com/Grimmscorpp/protestr)
+*   🚀  I'm currently working on [unicache](https://github.com/Grimmscorpp/unicache)
 *   🧠  I'm learning DevOps
 *   🤝  I'm open to collaborating on TDD, Docker, Infrastructure
 *   ⚡  I'm tech-agnostic and inquisitive—all for learning from everyone!
